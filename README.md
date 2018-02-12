@@ -18,7 +18,11 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 **simple minist.py** is another example  
 
 # [Further reading](https://www.cnblogs.com/skyfsm/p/6806246.html)  
->> ## R-CNN  
->> ## SPP  
->> ## Fast R-CNN  
->> ## Faster R-CNN  
+> ## R-CNN: Region based CNN  
+>> #### box-selecting method: EdgeBoxes, Selective Search, ect.  
+> ## SPP: Spatial Pyramid Pooling  
+>> used for multi-scale input for CNN  
+> ## Fast R-CNN  
+>> RCNN + SPP  
+> ## Faster R-CNN  
+>> add **RPN (Region Proposal Network)** for extracting candidate boxes
