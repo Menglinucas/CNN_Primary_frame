@@ -4,6 +4,7 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 ------------
 ![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/CNN.PNG)  
 
+# dog and cat --- dog_cat.py
 ## 1. Load the training data  
 ## 2. Define basic parameters  
 ## 3. Construct networks  
@@ -15,14 +16,15 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 > ####  3.6 Construct evaluation function used for estimating the accuracy  
 ## 4. Training  
 
-**simple minist.py** is another example  
+# MNIST --- simple minist.py  
 
-# [Further reading](https://www.cnblogs.com/skyfsm/p/6806246.html)  
+[Further reading](https://www.cnblogs.com/skyfsm/p/6806246.html)  
+--------------
 > ## R-CNN: Region based CNN  
 >> #### box-selecting method: EdgeBoxes, Selective Search, ect.  
 > ## SPP: Spatial Pyramid Pooling  
->> used for multi-scale input for CNN  
+>> ####used for multi-scale input for CNN  
 > ## Fast R-CNN  
->> RCNN + SPP  
+>> ####RCNN + SPP  
 > ## Faster R-CNN  
->> add **RPN (Region Proposal Network)** for extracting candidate boxes
+>> ####add **RPN (Region Proposal Network)** for extracting candidate boxes
