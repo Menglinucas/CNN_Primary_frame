@@ -17,14 +17,14 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 ## 4. Training  
 
 # MNIST --- simple minist.py  
-
+                                             
 [Further reading](https://www.cnblogs.com/skyfsm/p/6806246.html)  
 --------------
 ## R-CNN: Region based CNN  
 >> #### box-selecting method: EdgeBoxes, Selective Search, ect.  
 ## SPP: Spatial Pyramid Pooling  
->> ####used for multi-scale input for CNN  
+>> #### used for multi-scale input for CNN  
 ## Fast R-CNN  
->> ####RCNN + SPP  
+>> #### RCNN + SPP  
 ## Faster R-CNN  
->> ####add **RPN (Region Proposal Network)** for extracting candidate boxes
+>> #### add **RPN (Region Proposal Network)** for extracting candidate boxes
