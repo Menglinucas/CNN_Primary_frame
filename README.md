@@ -2,7 +2,7 @@ Primary_frame_CNN（dog_cat.py, dataset.py）  
 ============
 A primary frame of Convolutional Neural Network with a clear designing process, mainly used for object classification.  
 ------------
-![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/CNN.PNG)
+![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/CNN.PNG)  
 
 # dog and cat --- dog_cat.py
 ## 1. Load the training data  
@@ -20,11 +20,11 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 
 [Further reading](https://www.cnblogs.com/skyfsm/p/6806246.html)  
 --------------
-> ## R-CNN: Region based CNN  
+## R-CNN: Region based CNN  
 >> #### box-selecting method: EdgeBoxes, Selective Search, ect.  
-> ## SPP: Spatial Pyramid Pooling  
+## SPP: Spatial Pyramid Pooling  
 >> ####used for multi-scale input for CNN  
-> ## Fast R-CNN  
+## Fast R-CNN  
 >> ####RCNN + SPP  
-> ## Faster R-CNN  
+## Faster R-CNN  
 >> ####add **RPN (Region Proposal Network)** for extracting candidate boxes
