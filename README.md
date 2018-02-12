@@ -32,3 +32,4 @@ Further reading  
 >> ## add **RPN (Region Proposal Network)** for extracting candidate boxes  
 
 # B: [25 Neural Network Model](http://blog.csdn.net/qq_35082030/article/details/73368962)  
+![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/NN.jpg)
