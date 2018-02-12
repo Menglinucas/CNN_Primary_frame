@@ -1,6 +1,8 @@
-# Primary_frame_CNN（dog_cat.py, dataset.py）  
-**This is a primary frame of Convolutional Neural Network with a clear
-designing process, mainly used for object classification.**  
+=============
+Primary_frame_CNN（dog_cat.py, dataset.py）  
+# A primary frame of Convolutional Neural Network with a clear designing process, mainly used for object classification.  
+![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/CNN.PNG)  
+
 ## 1. Load the training data  
 ## 2. Define basic parameters  
 ## 3. Construct networks  
