@@ -18,8 +18,9 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 
 # MNIST --- simple minist.py  
                                              
-Further reading[reference](https://www.cnblogs.com/skyfsm/p/6806246.html)  
+Further reading  
 --------------
+[reference](https://www.cnblogs.com/skyfsm/p/6806246.html)
 ## R-CNN: Region based CNN  
 >> ## box-selecting method: EdgeBoxes, Selective Search, ect.  
 ## SPP: Spatial Pyramid Pooling  
