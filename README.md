@@ -4,7 +4,7 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 ------------
 ![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/CNN.PNG)  
 
-# dog and cat --- dog_cat.py
+# A: dog and cat --- dog_cat.py
 ## 1. Load the training data  
 ## 2. Define basic parameters  
 ## 3. Construct networks  
@@ -16,8 +16,9 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 > ####  3.6 Construct evaluation function used for estimating the accuracy  
 ## 4. Training  
 
-# MNIST --- simple minist.py  
-************************************************************************************
+# B: MNIST --- simple minist.py  
+************************************************************************************  
+************************************************************************************  
 [Further reading](https://www.cnblogs.com/skyfsm/p/6806246.html)  
 ===============  
 ## R-CNN: Region based CNN  
