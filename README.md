@@ -23,13 +23,13 @@ Further reading  
 ===============  
 ## A: [About CNN variants](https://www.cnblogs.com/skyfsm/p/6806246.html)  
 > ### R-CNN: Region based CNN  
-  * box-selecting method: EdgeBoxes, Selective Search, ect.  
+   * box-selecting method: EdgeBoxes, Selective Search, ect.  
 > ### SPP: Spatial Pyramid Pooling  
-  * used for multi-scale input for CNN  
+   * used for multi-scale input for CNN  
 > ### Fast R-CNN  
-  * RCNN + SPP  
+   * RCNN + SPP  
 > ### Faster R-CNN  
-  * add **RPN (Region Proposal Network)** for extracting candidate boxes  
+   * add **RPN (Region Proposal Network)** for extracting candidate boxes  
   
   
 ## B: [25 Neural Network Model](http://blog.csdn.net/qq_35082030/article/details/73368962)  
