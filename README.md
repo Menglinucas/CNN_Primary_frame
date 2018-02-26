@@ -22,7 +22,7 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 Further reading  
 ===============  
 ## A: [About CNN variants](https://www.cnblogs.com/skyfsm/p/6806246.html)  
-### * R-CNN: Region based CNN  
+### R-CNN: Region based CNN  
   * box-selecting method: EdgeBoxes, Selective Search, ect.  
 ### * SPP: Spatial Pyramid Pooling  
   * used for multi-scale input for CNN  
