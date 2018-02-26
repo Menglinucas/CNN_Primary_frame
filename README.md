@@ -22,14 +22,15 @@ A primary frame of Convolutional Neural Network with a clear designing process, 
 Further reading  
 ===============  
 ## A: [About CNN variants](https://www.cnblogs.com/skyfsm/p/6806246.html)  
-* ###R-CNN: Region based CNN  
+### * R-CNN: Region based CNN  
   * box-selecting method: EdgeBoxes, Selective Search, ect.  
-* ###SPP: Spatial Pyramid Pooling  
+### * SPP: Spatial Pyramid Pooling  
   * used for multi-scale input for CNN  
-* ###Fast R-CNN  
+### * Fast R-CNN  
   * RCNN + SPP  
-* ###Faster R-CNN  
-* add **RPN (Region Proposal Network)** for extracting candidate boxes  
+### * Faster R-CNN  
+ * add **RPN (Region Proposal Network)** for extracting candidate boxes  
+  
   
 ## B: [25 Neural Network Model](http://blog.csdn.net/qq_35082030/article/details/73368962)  
 ![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/NN.jpg)
