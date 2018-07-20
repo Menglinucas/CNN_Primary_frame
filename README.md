@@ -34,3 +34,12 @@ Further reading  
   
 ## B: [25 Neural Network Model](http://blog.csdn.net/qq_35082030/article/details/73368962)  
 ![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/NN.jpg)
+
+400 rows of classic CNN code（classic CNN 400 rows.py）  
+============
+### function for constructing Graph, training, testing, loading model and classifying
+### continue training
+### tf.name_scope, get_tensor_by_name, get_operation_by_name
+### graph and session, interactiveSession
+### tensorboard
+### model file formats: ckp, pb
