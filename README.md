@@ -37,9 +37,10 @@ Further reading  
 
 400 rows of classic CNN code（classic CNN 400 rows.py）  
 ============
-### function for constructing Graph, training, testing, loading model and classifying
-### continue training
-### tf.name_scope, get_tensor_by_name, get_operation_by_name
-### graph and session, interactiveSession
-### tensorboard
-### model file formats: ckp, pb
+## Keys:
+#### A: function for constructing Graph, training, testing, loading model and classifying
+#### B: continue training
+#### C: tf.name_scope, get_tensor_by_name, get_operation_by_name
+#### D: graph and session, interactiveSession
+#### E: tensorboard
+#### F: model file formats: ckp, pb
