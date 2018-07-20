@@ -34,7 +34,8 @@ Further reading  
   
 ## B: [25 Neural Network Model](http://blog.csdn.net/qq_35082030/article/details/73368962)  
 ![image](https://github.com/Menglinucas/Primary_frame_CNN/blob/master/NN.jpg)
-
+************************************************************************************  
+************************************************************************************  
 400 rows of classic CNN code（classic CNN 400 rows.py）  
 ============
 ## Keys:
